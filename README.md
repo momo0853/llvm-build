@@ -1,4 +1,4 @@
-# WebRTC-llvm-build
+# llvm-build
 WebRTC本身是支持多平台，不过它在下载的时候是区分平台的，本身也不支持一个项目多平台编译（Linux、Windows和MacOS），稍微改动一下编译脚本就可以支持了，我们还需要把用到的所有第三方库都一起下载下来放到一个项目中。
 
 # build 修改
